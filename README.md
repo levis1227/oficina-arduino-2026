@@ -1,11 +1,11 @@
-# Oficina Arduino 
+
 
 <p align="center">
   <img width="1600" height="488" alt="image (1)" src="https://github.com/user-attachments/assets/e9de7492-486d-4702-9dfe-d948977b3472" />
 </p>
 
 
-
+# Oficina Arduino 
 
 
 ## Slides
