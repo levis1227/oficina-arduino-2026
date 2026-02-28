@@ -6,13 +6,13 @@
 
 ## Slides
 
-Caso vocês queiram acompanhar a aula ou rever alguma informação, segue abaixo o link da apresentação:
+Caso vocês desejem acompanhar a aula ou rever alguma informação, segue abaixo o link da apresentação:
 
 [Canvas: Oficina Arduino](https://www.canva.com)
 
 ## Códigos 
 
-Para agilizar o processo, deixamos abaixo todos os códigos que seram dados na segunda parte da aula, após a explicação dos materiais.
+Para agilizar o processo, deixamos abaixo todos os códigos que serão dados na segunda parte da aula, após a explicação dos materiais.
 
 ### 🚨 Exemplo 01: Piscar LED (Blink)
 
