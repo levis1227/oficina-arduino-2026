@@ -17,6 +17,12 @@ Para agilizar o processo, deixamos abaixo todos os códigos que seram dados na s
 
 O resistor é essencial aqui para não queimar o LED. Conecte o terminal longo (anodo) do LED ao resistor e o resistor ao pino 13.
 
+<p aling="center">
+<img width="900" height="675" alt="image" src="https://github.com/user-attachments/assets/f555c9aa-3744-4f23-a3d7-61b1993b7d86" />
+<p>
+
+
+
 ```zsh
 
 void setup() {
