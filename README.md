@@ -103,7 +103,7 @@ void loop() {
 ```
 **Comentário**: Aqui vamos fazer algo mais interessante que apenas um "bipe" contínuo: vamos variar a frequência para parecer uma sirene.
 
-### Exemplo 04: Servo Motor
+### ⚙️ Exemplo 04: Servo Motor
 
 <p align="center">
 <img width="600" height="410" alt="image" src="https://github.com/user-attachments/assets/d237e38c-e441-440b-aa03-61dab8ef3e94" />
