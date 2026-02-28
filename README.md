@@ -1,5 +1,8 @@
 # Oficina Arduino 
 
+<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/c740f886-f07c-46d6-9779-dca299c9b21c" />
+
+
 ## Slides
 
 Caso vocês queiram acompanhar a aula ou rever alguma informação, segue abaixo o link da apresentação:
