@@ -102,3 +102,32 @@ void loop() {
 
 ```
 **Comentário**: Aqui vamos fazer algo mais interessante que apenas um "bipe" contínuo: vamos variar a frequência para parecer uma sirene.
+
+### Exemplo 04: Servo Motor
+
+<p align="center">
+<img width="600" height="410" alt="image" src="https://github.com/user-attachments/assets/d237e38c-e441-440b-aa03-61dab8ef3e94" />
+<p>
+
+
+#### 💻 Código Fonte
+
+```zsh
+
+#include <Servo.h>
+Servo meuServo;
+
+void setup() {
+  meuServo.attach(9);
+}
+
+void loop() {
+  meuServo.write(90);
+  delay(1000);
+  meuServo.write(0);
+  delay(1000);
+}
+
+```
+
+**Comentário**: Controle de posição de 0 a 180 graus.
