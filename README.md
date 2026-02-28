@@ -1,7 +1,10 @@
 # Oficina Arduino 
+
 <p align="center">
-<img width="300" height="300" alt="image" src="https://github.com/user-attachments/assets/c740f886-f07c-46d6-9779-dca299c9b21c" />
-<p>
+  <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/0b17fd82-75e0-49cd-bf3b-a5d35e7b75d2" />
+</p>
+
+
 
 ## Slides
 
@@ -74,7 +77,7 @@ void loop() {
 ### 🔊 Exemplo 03: Alarme com Buzzer (PWM/Tones)
 
 <p align="center">
-<img width="854" height="480" alt="image" src="https://github.com/user-attachments/assets/4c797582-f761-47b7-a6fd-612615d6072c" />
+<img width="600" height="337" alt="image" src="https://github.com/user-attachments/assets/4c797582-f761-47b7-a6fd-612615d6072c" />
 <p>
 
 #### 💻 Código Fonte
