@@ -29,7 +29,7 @@ void loop() {
 
 ```
 
-## Exemplo 02: Sensor de Presença PIR (Digital Input)
+### Exemplo 02: Sensor de Presença PIR (Digital Input)
 
 Este código monitora o sensor. Quando ele detecta movimento, acende um LED de aviso.
 
@@ -55,7 +55,7 @@ void loop() {
 
 ```
 
-## Exemplo 03: Alarme com Buzzer (PWM/Tones)
+### Exemplo 03: Alarme com Buzzer (PWM/Tones)
 
 Aqui vamos fazer algo mais interessante que apenas um "bipe" contínuo: vamos variar a frequência para parecer uma sirene.
 
