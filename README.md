@@ -13,15 +13,13 @@ Caso vocês queiram acompanhar a aula ou rever alguma informação, segue abaixo
 
 Para agilizar o processo, deixamos abaixo todos os códigos que seram dados na segunda parte da aula, após a explicação dos materiais.
 
-### Exemplo 01: Piscar LED (Digital Output)
-
-O resistor é essencial aqui para não queimar o LED. Conecte o terminal longo (anodo) do LED ao resistor e o resistor ao pino 13.
+### 🚨 Exemplo 01: Piscar LED (Blink)
 
 <p align="center">
 <img width="600" height="450" alt="image" src="https://github.com/user-attachments/assets/f555c9aa-3744-4f23-a3d7-61b1993b7d86" />
 <p>
 
-
+#### 💻 Código Fonte
 
 ```zsh
 
@@ -37,6 +35,8 @@ void loop() {
 }
 
 ```
+
+**Comentário**: O resistor é essencial aqui para não queimar o LED. Conecte o terminal longo (anodo) do LED ao resistor e o resistor ao pino 13.
 
 ### Exemplo 02: Sensor de Presença PIR (Digital Input)
 
