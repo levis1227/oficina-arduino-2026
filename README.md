@@ -1,8 +1,10 @@
 # Oficina Arduino 
 
 <p align="center">
-  <img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/0b17fd82-75e0-49cd-bf3b-a5d35e7b75d2" />
+  <img width="1600" height="488" alt="image (1)" src="https://github.com/user-attachments/assets/e9de7492-486d-4702-9dfe-d948977b3472" />
 </p>
+
+
 
 
 
