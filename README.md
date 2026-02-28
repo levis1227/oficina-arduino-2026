@@ -38,9 +38,14 @@ void loop() {
 
 **Comentário**: O resistor é essencial aqui para não queimar o LED. Conecte o terminal longo (anodo) do LED ao resistor e o resistor ao pino 13.
 
-### Exemplo 02: Sensor de Presença PIR (Digital Input)
+### 🏃‍♂️ Exemplo 02: Sensor de Presença PIR (Digital Input)
 
-Este código monitora o sensor. Quando ele detecta movimento, acende um LED de aviso.
+
+<p align="center">
+<img width="600" height="364" alt="image" src="https://github.com/user-attachments/assets/5d3e9aea-9885-4a7f-86b4-a673620913d0" />
+</p>
+
+#### 💻 Código Fonte
 
 ```zsh
 
@@ -64,10 +69,15 @@ void loop() {
 
 ```
 
-### Exemplo 03: Alarme com Buzzer (PWM/Tones)
+**Comentário**: Este código monitora o sensor. Quando ele detecta movimento, acende um LED de aviso.
 
-Aqui vamos fazer algo mais interessante que apenas um "bipe" contínuo: vamos variar a frequência para parecer uma sirene.
+### 🔊 Exemplo 03: Alarme com Buzzer (PWM/Tones)
 
+<p align="center">
+<img width="854" height="480" alt="image" src="https://github.com/user-attachments/assets/4c797582-f761-47b7-a6fd-612615d6072c" />
+<p>
+
+#### 💻 Código Fonte
 
 ```zsh
 
@@ -90,3 +100,4 @@ void loop() {
 }
 
 ```
+**Comentário**: Aqui vamos fazer algo mais interessante que apenas um "bipe" contínuo: vamos variar a frequência para parecer uma sirene.
