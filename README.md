@@ -23,6 +23,11 @@ Para agilizar o processo, deixamos abaixo todos os códigos que serão dados na 
 #### 💻 Código Fonte
 
 ```zsh
+/*******************************************************/
+/* Exemplo 0 - Portas Digitais                         */
+/* Programação de ligar e desligar um LED              */
+/* utilizando uma porta PWM.                           */
+/*******************************************************/
 
 void setup() {
   pinMode(13, OUTPUT); // Define o pino 13 como saída
@@ -38,6 +43,40 @@ void loop() {
 ```
 
 **Comentário**: O resistor é essencial aqui para não queimar o LED. Conecte o terminal longo (anodo) do LED ao resistor e o resistor ao pino 13.
+
+
+#### 💻 Código Fonte
+
+```zsh
+
+/*******************************************************/
+/* Exemplo 02 - Portas PWM                                */
+/* Programação da intensidade do brilho de um LED      */
+/* utilizando uma porta PWM.                           */
+/*******************************************************/
+
+/* Define a porta PWM 11 como pino do LED.             */
+int pinoLed = 11; 
+
+void setup() {
+  /* Define o pino do LED como saída. */
+  pinMode(pinoLed, OUTPUT);
+}
+void loop() {
+  /* Alterna o brilho do LED com as intensidades       */
+  /* definidas (0 à 255) em intervalos de 1 segundo.   */
+  analogWrite(pinoLed, 5);
+  delay(1000);
+  analogWrite(pinoLed, 50);
+  delay(1000);
+  analogWrite(pinoLed, 100);
+  delay(1000);
+  analogWrite(pinoLed, 255);
+  delay(1000);
+}
+
+
+```
 
 ### 🏃‍♂️ Exemplo 02: Sensor de Presença PIR (Digital Input)
 
